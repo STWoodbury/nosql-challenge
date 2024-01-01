@@ -54,14 +54,15 @@ This section uses the [NoSql analysis starter notebook](NoSQL_analysis_starter.i
 This pipeline is then aggregated and cast as a list to be saved to a variable. Finally, the list is converted to a Pandas DataFrame. 
 
 The 55 distinct LocalAuthorities had the following top 10 results:
-
-{'_id': 'Thanet', 'count': 1130}
-{'_id': 'Greenwich', 'count': 882}
-{'_id': 'Maidstone', 'count': 713}
-{'_id': 'Newham', 'count': 711}
-{'_id': 'Swale', 'count': 686}
-{'_id': 'Chelmsford', 'count': 680}
-{'_id': 'Medway', 'count': 672}
-{'_id': 'Bexley', 'count': 607}
-{'_id': 'Southend-On-Sea', 'count': 586}
-{'_id': 'Tendring', 'count': 542}
+<ul>
+    <li>{'_id': 'Thanet', 'count': 1130}</li>
+    <li>{'_id': 'Greenwich', 'count': 882}</li>
+    <li>{'_id': 'Maidstone', 'count': 713}</li>
+    <li>{'_id': 'Newham', 'count': 711}</li>
+    <li>{'_id': 'Swale', 'count': 686}</li>
+    <li>{'_id': 'Chelmsford', 'count': 680}</li>
+    <li>{'_id': 'Medway', 'count': 672}</li>
+    <li>{'_id': 'Bexley', 'count': 607}</li>
+    <li>{'_id': 'Southend-On-Sea', 'count': 586}</li>
+    <li>{'_id': 'Tendring', 'count': 542}</li>
+</ul>
